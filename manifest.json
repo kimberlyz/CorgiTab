@@ -1,0 +1,20 @@
+{
+	"manifest_version": 2, 
+
+	"name": "CorgiTab",
+	"description": "Override the new tab page with a cute corgi drawing",
+	"version": "1.0",
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	},
+	"permissions": [
+		"<all_urls>"
+	    // "http://thecatapi.com/*",
+	    // "http://*/*",
+	    // "https://*/*"
+	 ]
+	// "background": {
+	//     "scripts": ["clickaction.js"],
+	//     "persistent": false
+ //  },
+}
