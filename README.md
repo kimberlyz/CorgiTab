@@ -8,8 +8,12 @@ A Chrome Extension to show random cat pictures! (Even though the repository name
 
 * If you click on the image, you can load a different random cat picture.
 
-## API
+## Video Walkthrough
+<img src='https://i.imgur.com/rA5p1Mg.gif' title='' width='500' alt='Video Walkthrough' />
 
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## API
 Pulls images from <http://thecatapi.com/>
 
 ![alt text][catApiImg]
